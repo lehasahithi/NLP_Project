@@ -1,10 +1,10 @@
-****📘 NLP for Accessibility – Text Simplification for Dyslexic Readers****
+## ****📘 NLP for Accessibility – Text Simplification for Dyslexic Readers****
 This project focuses on improving text accessibility for individuals with dyslexia by applying advanced Natural Language Processing (NLP) techniques to simplify complex English sentences. The system transforms input text into simpler, easier-to-read versions while preserving the original meaning and structure.
 
-****🎯 Objective****
+## ****🎯 Objective****
 To develop an AI-driven tool that automatically simplifies complex text using transformer-based language models, enhancing readability and comprehension for dyslexic readers.
 
-****🔍 Key Features****
+## ****🔍 Key Features****
 ****🔡 Lexical Simplification****: Replaces difficult words with simpler synonyms.
 
 ****📏 Syntactic Simplification****: Breaks down long, complex sentences into shorter, clearer ones.
@@ -28,7 +28,7 @@ Displays original and simplified sentences side-by-side.
 
 Designed with accessibility in mind – supports larger fonts, color contrast, and clean layout for dyslexic users.
 
-****🧪 Experiment Setup****
+## ****🧪 Experiment Setup****
 ****Models Evaluated:****
 
 T5-base, BART, Mistral-7B-Instruct-v0.1
@@ -45,14 +45,14 @@ SARI (Simplicity and preservation)
 
 FKGL (Readability)
 
-****📁 Dataset****
+## ****📁 Dataset****
 Input: A set of complex English sentences.
 
 Output: Simplified versions suitable for dyslexic readers.
 
 Additional: Custom test cases were created to evaluate model performance across varying levels of complexity.
 
-****🛠️ Tech Stack****
+## ****🛠️ Tech Stack****
 ****Frontend****: React.js, Tailwind CSS, Axios
 
 ****Backend****: Node.js, Express.js
@@ -63,7 +63,7 @@ Additional: Custom test cases were created to evaluate model performance across 
 
 Deployment (optional): Docker, Vercel/Render (for frontend), Hugging Face Spaces/API for model inference
 
-****🌍 Real-World Impact****
+## ****🌍 Real-World Impact****
 This system can be integrated into:
 
 Educational platforms for students with learning difficulties
