@@ -1,4 +1,4 @@
-## ****📘 NLP for Accessibility – Text Simplification for Dyslexic Readers****
+# ****📘 NLP for Accessibility – Text Simplification for Dyslexic Readers****
 This project focuses on improving text accessibility for individuals with dyslexia by applying advanced Natural Language Processing (NLP) techniques to simplify complex English sentences. The system transforms input text into simpler, easier-to-read versions while preserving the original meaning and structure.
 
 ## ****🎯 Objective****
